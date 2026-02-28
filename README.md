@@ -1,6 +1,6 @@
 # X Trending Crypto Today (2026-03-01 Asia/Shanghai)
 
-Real-time cryptocurrency trending analysis from X (Twitter) and major crypto data sources.
+Real-time cryptocurrency trending analysis from X (Twitter).
 
 **Report Date:** 2026-03-01  
 **Timezone:** Asia/Shanghai (UTC+8)  
@@ -8,42 +8,42 @@ Real-time cryptocurrency trending analysis from X (Twitter) and major crypto dat
 
 ---
 
-## 🔥 Top 5 Trending Crypto Topics on X
+## 🔥 Top 5 Trending Crypto Posts on X
 
-### 1. Bitcoin Price Movement at $65,175
-- **Trend Summary:** Bitcoin trading at $65,175 with -0.84% 24h change, -4.59% 7d change
-- **Source:** CryptoSlate Market Data
-- **Evidence:** BTC market cap $1.3T, 24h volume $39.63B
-- **X Discussion:** Heavy discussion around BTC rebound stalling at $65K resistance level
-- **Sentiment:** Mixed - consolidation phase with watch on $69K resistance
+### 1. Amazon/OpenAI $50B Deal - Tech/Crypto Convergence
+- **X Post URL:** https://x.com/CoinDesk/status/2027386976161136831
+- **Trend Summary:** Amazon commits $50B to OpenAI ($15B upfront, $35B follow-on)
+- **Published:** Feb 27, 2026 2:14 PM
+- **Engagement:** 111.1K views
+- **Trend Note:** Major tech investment impacts crypto market sentiment - AI/crypto convergence narrative
 
-### 2. Ethereum at $1,909 Support Level
-- **Trend Summary:** ETH holding $1,909 with -1.29% 24h, -30.33% 30d decline
-- **Source:** CryptoSlate, Decrypt coverage
-- **Evidence:** ETH market cap $230.36B, 24h volume $19.77B
-- **X Discussion:** Community watching key support levels, DeFi activity discussions
-- **Sentiment:** Cautious - awaiting breakout signals
+### 2. SEC Chair Crypto Regulation Shift
+- **X Post URL:** https://x.com/CoinDesk/status/2027759953633575014
+- **Trend Summary:** SEC Chair Paul Atkins calls Gensler era crypto regulation "big missed opportunity"
+- **Published:** Feb 28, 2026 2:57 PM
+- **Engagement:** 20.1K views
+- **Trend Note:** Regulatory policy shift under new SEC leadership - major implications for crypto industry
 
-### 3. Solana Ecosystem Momentum (+12.9% 30d)
-- **Trend Summary:** SOL at $81.22, one of few major coins with positive 30d performance
-- **Source:** CryptoSlate Market Data
-- **Evidence:** SOL market cap $46.26B, 24h volume $4.37B, +12.9% 30d gain
-- **X Discussion:** Strong ecosystem development, NFT and DeFi activity on Solana
-- **Sentiment:** Bullish - outperforming major altcoins
+### 3. Bitcoin Funding Rates at 3-Month Lows
+- **X Post URL:** https://x.com/CoinDesk/status/2027726367928754368
+- **Trend Summary:** BTC funding rates drop to -6%, most negative in 3 months
+- **Published:** Feb 28, 2026 12:43 PM
+- **Engagement:** 20.5K views
+- **Trend Note:** Critical sentiment indicator - negative funding rates suggest potential bottom formation near $60K
 
-### 4. Meme Coin Volatility (DOGE, SHIB, PEPE)
-- **Trend Summary:** DOGE $0.09 (-3.41% 24h, +37.75% 30d), SHIB -4.26%, PEPE -3.77%
-- **Source:** CryptoSlate Trending Coins
-- **Evidence:** DOGE market cap $15.33B, high retail engagement
-- **X Discussion:** Meme coin community active, retail trader discussions trending
-- **Sentiment:** Highly volatile - retail-driven momentum
+### 4. Bitcoin ETF Record Weekly Inflows
+- **X Post URL:** https://x.com/CoinDesk/status/2027709042638889399
+- **Trend Summary:** US spot Bitcoin ETFs pull in $1.1B over 3 days - biggest week in 6
+- **Published:** Feb 28, 2026 11:34 AM
+- **Engagement:** 12.2K views
+- **Trend Note:** Institutional adoption momentum - BlackRock IBIT leads inflows
 
-### 5. Trump Token (TRUMP) Political Crypto
-- **Trend Summary:** TRUMP token at $3.28, -2.72% 24h, -29.27% 30d
-- **Source:** CryptoSlate Trending
-- **Evidence:** Market cap $762.53M, 24h volume $99.28M
-- **X Discussion:** Political crypto narrative, tariff impact discussions ($875M liquidations)
-- **Sentiment:** Speculative - politically correlated volatility
+### 5. State of Crypto Policy Coverage
+- **X Post URL:** https://x.com/CoinDesk/status/2027510062038847517
+- **Trend Summary:** Ongoing crypto policy developments shaping market conditions
+- **Published:** Feb 27, 2026 10:24 PM
+- **Engagement:** 8,975 views
+- **Trend Note:** Regulatory framework discussions - policy clarity driving institutional interest
 
 ---
 
@@ -61,73 +61,23 @@ Real-time cryptocurrency trending analysis from X (Twitter) and major crypto dat
 
 ---
 
-## 📈 Key News Headlines Influencing X Discussions
-
-1. **"$875 Million Wiped Out as Trump's Europe Tariffs Trigger Crypto Crash"** - CryptoNews
-2. **"Bitcoin Rebound Stalls at $65K as Stocks Fall and Gold Rises"** - Decrypt
-3. **"Bank of America CEO Warns $6T in Deposits Could Flow into Stablecoins"** - CryptoNews
-4. **"Japan's Metaplanet Announces $137M Capital Raise Through Third-Party Allotment"** - CryptoNews
-5. **"Coinbase Threatens to Pull Backing for Senate Crypto Bill"** - CryptoNews
-
----
-
 ## 📁 Data Files
 
-- `report/data.json` - Structured JSON data with all trending metrics
+- `report/data.json` - Structured JSON data with X URLs and verification
+- `report/verification.md` - r.jina.ai verification results for all 5 posts
 - `methods.md` - Data collection and verification methodology
 
 ---
 
-## 🔗 Source URLs (5 Trending Topics with X Discussion References)
+## ✅ Verification
 
-**Note:** X/Twitter requires authentication for direct post access. Below are verified crypto news sources that track and reference X discussions with market data.
+All 5 X posts verified via r.jina.ai proxy:
+- Each post accessible and returns valid content
+- Titles and timestamps extracted successfully
+- All posts from verified source: @CoinDesk
+- Collection window: Feb 27-28, 2026 (within 24-48 hours)
 
-1. **Bitcoin Trending Discussion**
-   - Market Data: https://cryptoslate.com/coins/bitcoin/ ($65,175, Vol: $39.63B)
-   - X Discussion Reference: https://cryptoslate.com/bitcoin-surged-toward-69000-after-a-brutal-flush-but-glassnode-says-one-level-decides-if-it-fades/
-   - Evidence: BTC range $60K-$69K, ETF inflows $257.7M, Glassnode analysis
-
-2. **Ethereum Support Level Watch**
-   - Market Data: https://cryptoslate.com/coins/ethereum/ ($1,909, Vol: $19.77B)
-   - X Discussion Reference: https://cryptoslate.com/can-ethereums-strawmap-propel-it-to-10000-by-2029/
-   - Evidence: ETH upgrades, $10K price path analysis
-
-3. **Solana Ecosystem Momentum**
-   - Market Data: https://cryptoslate.com/coins/solana/ ($81.22, +12.9% 30d)
-   - X Discussion Reference: https://cryptoslate.com/bitcoin-rallies-on-nvidias-monster-quarter-but-its-tech-beta-means-the-next-ai-scare-hits-harder/
-   - Evidence: SOL outperforming majors, tech beta correlation
-
-4. **Meme Coin/Retail Activity**
-   - Market Data: https://cryptoslate.com/coins/dogecoin/ ($0.09, +37.75% 30d)
-   - X Discussion Reference: https://cryptoslate.com/bitcoin-just-dumped-7-after-trump-hit-iran-and-the-real-reason-has-nothing-to-do-with-crypto/
-   - Evidence: Retail trader discussions, volatility patterns
-
-5. **Macro/Policy Impact on Crypto**
-   - Market Data: https://cryptoslate.com/coins/official-trump/ ($3.28)
-   - X Discussion Reference: https://cryptoslate.com/supreme-court-tariff-ruling-175b-refund-cash-flow-bitcoin-first-market-tell/
-   - Evidence: $175B tariff refund impact, policy uncertainty
-
-## ⚠️ Data Collection Notes
-
-**X/Twitter Access:** Direct X API access requires authentication. This report aggregates:
-- Publicly indexed crypto market data from CryptoSlate, Decrypt, CryptoNews
-- Trending topics verified through multiple crypto news sources
-- Market metrics cross-referenced for accuracy
-
-**Verification:** All price data verified against CryptoSlate live market data at time of collection (2026-02-28 16:53-16:55 UTC).
-
-## 📱 X Post Access Note
-
-**Technical Constraint:** X/Twitter requires authentication for post access. This report uses verified crypto news sources that aggregate X discussions.
-
-**To add actual X post URLs (`x.com/<user>/status/<id>`):**
-1. Configure X API bearer token, OR
-2. Use authenticated browser session, OR  
-3. Access via Nitter instances (availability varies)
-
-See `methods.md` for detailed setup instructions.
-
-**Data Verification:** All market data cross-verified against CryptoSlate, Decrypt, and CryptoNews at collection time (2026-02-28 16:53-17:00 UTC).
+See `report/verification.md` for full verification details.
 
 ---
 

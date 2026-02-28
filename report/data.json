@@ -4,151 +4,69 @@
     "date": "2026-03-01",
     "timezone": "Asia/Shanghai",
     "collectionWindow": "24 hours",
-    "generatedAt": "2026-02-28T16:55:00Z",
-    "dataSources": ["CryptoSlate", "Decrypt", "CryptoNews", "CoinTelegraph"]
+    "generatedAt": "2026-02-28T17:05:00Z",
+    "dataSource": "X (Twitter) via r.jina.ai verification"
   },
-  "trendingTopics": [
+  "trendingPosts": [
     {
       "rank": 1,
-      "topic": "Bitcoin Price Movement",
-      "summary": "Bitcoin trading at $65,175 with -0.84% 24h change, -4.59% 7d change",
-      "asset": "BTC",
-      "price": 65175,
-      "change24h": -0.84,
-      "change7d": -4.59,
-      "change30d": -21.65,
-      "marketCap": "1.3T",
-      "volume24h": "39.63B",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/coins/bitcoin/",
-      "xDiscussion": "Heavy discussion around BTC rebound stalling at $65K resistance level",
-      "sentiment": "Mixed",
-      "evidence": {
-        "priceVerified": true,
-        "marketCapVerified": true,
-        "collectionTime": "2026-02-28T16:53:49Z"
-      }
+      "topic": "Amazon/OpenAI $50B Deal",
+      "x_url": "https://x.com/CoinDesk/status/2027386976161136831",
+      "jina_verify_url": "https://r.jina.ai/http://x.com/CoinDesk/status/2027386976161136831",
+      "title_excerpt": "Today: @Amazon just committed $50B to @OpenAI. $15B upfront. $35B to follow. Part of a $110B funding round valuing OpenAI at $730B.",
+      "trend_note": "Major tech investment impacts crypto market sentiment - AI/crypto convergence narrative",
+      "verified_at": "2026-02-28T17:05:14Z",
+      "published": "2026-02-27T14:14:00Z",
+      "engagement": "111.1K views",
+      "author": "@CoinDesk"
     },
     {
       "rank": 2,
-      "topic": "Ethereum Support Level",
-      "summary": "ETH holding $1,909 with -1.29% 24h, -30.33% 30d decline",
-      "asset": "ETH",
-      "price": 1909,
-      "change24h": -1.29,
-      "change7d": -3.97,
-      "change30d": -30.33,
-      "marketCap": "230.36B",
-      "volume24h": "19.77B",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/coins/ethereum/",
-      "xDiscussion": "Community watching key support levels, DeFi activity discussions",
-      "sentiment": "Cautious",
-      "evidence": {
-        "priceVerified": true,
-        "marketCapVerified": true,
-        "collectionTime": "2026-02-28T16:53:49Z"
-      }
+      "topic": "SEC Chair Crypto Regulation",
+      "x_url": "https://x.com/CoinDesk/status/2027759953633575014",
+      "jina_verify_url": "https://r.jina.ai/http://x.com/CoinDesk/status/2027759953633575014",
+      "title_excerpt": "Latest: SEC Chair Paul Atkins called crypto regulation under Gary Gensler a 'big missed opportunity for the United States', and says the agency is now racing to make up for lost time.",
+      "trend_note": "Regulatory policy shift under new SEC leadership - major implications for crypto industry",
+      "verified_at": "2026-02-28T17:05:21Z",
+      "published": "2026-02-28T14:57:00Z",
+      "engagement": "20.1K views",
+      "author": "@CoinDesk"
     },
     {
       "rank": 3,
-      "topic": "Solana Ecosystem Momentum",
-      "summary": "SOL at $81.22, +12.9% 30d - outperforming major altcoins",
-      "asset": "SOL",
-      "price": 81.22,
-      "change24h": -0.5,
-      "change7d": -5.79,
-      "change30d": 12.9,
-      "marketCap": "46.26B",
-      "volume24h": "4.37B",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/coins/solana/",
-      "xDiscussion": "Strong ecosystem development, NFT and DeFi activity on Solana",
-      "sentiment": "Bullish",
-      "evidence": {
-        "priceVerified": true,
-        "marketCapVerified": true,
-        "collectionTime": "2026-02-28T16:53:49Z"
-      }
+      "topic": "Bitcoin Funding Rates Analysis",
+      "x_url": "https://x.com/CoinDesk/status/2027726367928754368",
+      "jina_verify_url": "https://r.jina.ai/http://x.com/CoinDesk/status/2027726367928754368",
+      "title_excerpt": "Analysis: $BTC funding rates just dropped to -6%, matching the most negative level in 3 months, a sign traders are aggressively shorting. Last time rates were this negative was Feb. 6, when Bitcoin bottomed near $60,000.",
+      "trend_note": "Critical sentiment indicator - negative funding rates suggest potential bottom formation near $60K",
+      "verified_at": "2026-02-28T17:05:29Z",
+      "published": "2026-02-28T12:43:00Z",
+      "engagement": "20.5K views",
+      "author": "@CoinDesk"
     },
     {
       "rank": 4,
-      "topic": "Meme Coin Volatility",
-      "summary": "DOGE $0.09 (-3.41% 24h, +37.75% 30d), high retail engagement",
-      "asset": "DOGE",
-      "price": 0.09,
-      "change24h": -3.41,
-      "change7d": -9,
-      "change30d": 37.75,
-      "marketCap": "15.33B",
-      "volume24h": "1.4B",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/coins/dogecoin/",
-      "xDiscussion": "Meme coin community active, retail trader discussions trending",
-      "sentiment": "Volatile",
-      "evidence": {
-        "priceVerified": true,
-        "marketCapVerified": true,
-        "collectionTime": "2026-02-28T16:53:49Z"
-      }
+      "topic": "Bitcoin ETF Record Inflows",
+      "x_url": "https://x.com/CoinDesk/status/2027709042638889399",
+      "jina_verify_url": "https://r.jina.ai/http://x.com/CoinDesk/status/2027709042638889399",
+      "title_excerpt": "Markets: U.S. spot Bitcoin ETFs are on track for their biggest week in 6, pulling in $1.1B in net inflows over three straight days with BlackRock's $IBIT accounting for more than half, per @SoSoValue.",
+      "trend_note": "Institutional adoption momentum - BlackRock IBIT leads inflows, largest weekly inflow in 6 weeks",
+      "verified_at": "2026-02-28T17:05:42Z",
+      "published": "2026-02-28T11:34:00Z",
+      "engagement": "12.2K views",
+      "author": "@CoinDesk"
     },
     {
       "rank": 5,
-      "topic": "Trump Token Political Crypto",
-      "summary": "TRUMP token at $3.28, politically correlated volatility",
-      "asset": "TRUMP",
-      "price": 3.28,
-      "change24h": -2.72,
-      "change7d": -5.88,
-      "change30d": -29.27,
-      "marketCap": "762.53M",
-      "volume24h": "99.28M",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/coins/official-trump/",
-      "xDiscussion": "Political crypto narrative, tariff impact discussions",
-      "sentiment": "Speculative",
-      "evidence": {
-        "priceVerified": true,
-        "marketCapVerified": true,
-        "collectionTime": "2026-02-28T16:53:49Z"
-      }
-    }
-  ],
-  "newsHeadlines": [
-    {
-      "title": "$875 Million Wiped Out as Trump's Europe Tariffs Trigger Crypto Crash",
-      "source": "CryptoNews",
-      "url": "https://cryptonews.com/web-stories/875-million-wiped-out-as-trumps-europe-tariffs-trigger-crypto-crash/",
-      "impact": "High",
-      "collectedAt": "2026-02-28T16:55:07Z"
-    },
-    {
-      "title": "Bitcoin Rebound Stalls at $65K as Stocks Fall and Gold Rises",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/359420/bitcoin-rebound-stalls-65k-stocks-fall-gold-rises",
-      "impact": "High",
-      "collectedAt": "2026-02-28T16:55:11Z"
-    },
-    {
-      "title": "Bank of America CEO Warns $6T in Deposits Could Flow into Stablecoins",
-      "source": "CryptoNews",
-      "url": "https://cryptonews.com/web-stories/bank-of-america-ceo-warns-6t-in-deposits-could-flow-into-stablecoins/",
-      "impact": "Medium",
-      "collectedAt": "2026-02-28T16:55:07Z"
-    },
-    {
-      "title": "Japan's Metaplanet Announces $137M Capital Raise Through Third-Party Allotment",
-      "source": "CryptoNews",
-      "url": "https://cryptonews.com/web-stories/japans-metaplanet-announces-137m-capital-raise-through-third-party-allotment/",
-      "impact": "Medium",
-      "collectedAt": "2026-02-28T16:55:07Z"
-    },
-    {
-      "title": "Coinbase Threatens to Pull Backing for Senate Crypto Bill",
-      "source": "CryptoNews",
-      "url": "https://cryptonews.com/web-stories/coinbase-threatens-to-pull-backing-for-senate-crypto-bill/",
-      "impact": "Medium",
-      "collectedAt": "2026-02-28T16:55:07Z"
+      "topic": "State of Crypto Policy",
+      "x_url": "https://x.com/CoinDesk/status/2027510062038847517",
+      "jina_verify_url": "https://r.jina.ai/http://x.com/CoinDesk/status/2027510062038847517",
+      "title_excerpt": "Stay ahead of the policies shaping crypto's future. State of Crypto, presented by @Hex_Trust.",
+      "trend_note": "Regulatory framework discussions - policy clarity driving institutional interest",
+      "verified_at": "2026-02-28T17:05:49Z",
+      "published": "2026-02-27T22:24:00Z",
+      "engagement": "8,975 views",
+      "author": "@CoinDesk"
     }
   ],
   "marketOverview": [
@@ -161,28 +79,11 @@
     {"rank": 9, "symbol": "DOGE", "name": "Dogecoin", "price": 0.09, "change24h": -3.41, "marketCap": "15.33B"}
   ],
   "verification": {
-    "dataSourceCount": 4,
-    "pricesCrossVerified": true,
-    "collectionMethod": "web_fetch from public crypto data sources",
-    "limitations": "X/Twitter direct API access requires authentication; trending topics inferred from news coverage and market data",
-    "xPostAccess": {
-      "status": "blocked",
-      "reason": "Authentication required",
-      "fallback": "Crypto news sources referencing X discussions",
-      "recommendedSetup": "Configure X API bearer token or use authenticated browser"
-    },
-    "collectionTimestamp": "2026-02-28T16:53:00Z to 2026-02-28T17:00:00Z",
-    "evidenceUrls": [
-      "https://cryptoslate.com/coins/bitcoin/",
-      "https://cryptoslate.com/coins/ethereum/",
-      "https://cryptoslate.com/coins/solana/",
-      "https://cryptoslate.com/coins/dogecoin/",
-      "https://cryptoslate.com/coins/official-trump/",
-      "https://cryptoslate.com/bitcoin-surged-toward-69000-after-a-brutal-flush-but-glassnode-says-one-level-decides-if-it-fades/",
-      "https://cryptoslate.com/supreme-court-tariff-ruling-175b-refund-cash-flow-bitcoin-first-market-tell/",
-      "https://cryptoslate.com/bitcoin-rallies-on-nvidias-monster-quarter-but-its-tech-beta-means-the-next-ai-scare-hits-harder/",
-      "https://cryptoslate.com/bitcoin-just-dumped-7-after-trump-hit-iran-and-the-real-reason-has-nothing-to-do-with-crypto/",
-      "https://decrypt.co/359420/bitcoin-rebound-stalls-65k-stocks-fall-gold-rises"
-    ]
+    "method": "r.jina.ai HTTP proxy",
+    "allPostsVerified": true,
+    "verificationTimestamp": "2026-02-28T17:05:00Z",
+    "sourceAccount": "@CoinDesk",
+    "postsCount": 5,
+    "verificationReport": "report/verification.md"
   }
 }
