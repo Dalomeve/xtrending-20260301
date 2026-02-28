@@ -78,6 +78,14 @@ Real-time cryptocurrency trending analysis from X (Twitter) and major crypto dat
 
 ---
 
+## 🔗 Source URLs (5 Trending Topics)
+
+1. **Bitcoin:** https://cryptoslate.com/coins/bitcoin/ (Price: $65,175, Vol: $39.63B)
+2. **Ethereum:** https://cryptoslate.com/coins/ethereum/ (Price: $1,909, Vol: $19.77B)
+3. **Solana:** https://cryptoslate.com/coins/solana/ (Price: $81.22, +12.9% 30d)
+4. **Dogecoin:** https://cryptoslate.com/coins/dogecoin/ (Price: $0.09, +37.75% 30d)
+5. **Trump Token:** https://cryptoslate.com/coins/official-trump/ (Price: $3.28)
+
 ## ⚠️ Data Collection Notes
 
 **X/Twitter Access:** Direct X API access requires authentication. This report aggregates:
@@ -86,6 +94,8 @@ Real-time cryptocurrency trending analysis from X (Twitter) and major crypto dat
 - Market metrics cross-referenced for accuracy
 
 **Verification:** All price data verified against CryptoSlate live market data at time of collection (2026-02-28 16:53-16:55 UTC).
+
+**X Post Collection:** For full X post URLs, configure X API access or use browser automation. See `methods.md` for setup instructions.
 
 ---
 
