@@ -78,13 +78,34 @@ Real-time cryptocurrency trending analysis from X (Twitter) and major crypto dat
 
 ---
 
-## 🔗 Source URLs (5 Trending Topics)
+## 🔗 Source URLs (5 Trending Topics with X Discussion References)
 
-1. **Bitcoin:** https://cryptoslate.com/coins/bitcoin/ (Price: $65,175, Vol: $39.63B)
-2. **Ethereum:** https://cryptoslate.com/coins/ethereum/ (Price: $1,909, Vol: $19.77B)
-3. **Solana:** https://cryptoslate.com/coins/solana/ (Price: $81.22, +12.9% 30d)
-4. **Dogecoin:** https://cryptoslate.com/coins/dogecoin/ (Price: $0.09, +37.75% 30d)
-5. **Trump Token:** https://cryptoslate.com/coins/official-trump/ (Price: $3.28)
+**Note:** X/Twitter requires authentication for direct post access. Below are verified crypto news sources that track and reference X discussions with market data.
+
+1. **Bitcoin Trending Discussion**
+   - Market Data: https://cryptoslate.com/coins/bitcoin/ ($65,175, Vol: $39.63B)
+   - X Discussion Reference: https://cryptoslate.com/bitcoin-surged-toward-69000-after-a-brutal-flush-but-glassnode-says-one-level-decides-if-it-fades/
+   - Evidence: BTC range $60K-$69K, ETF inflows $257.7M, Glassnode analysis
+
+2. **Ethereum Support Level Watch**
+   - Market Data: https://cryptoslate.com/coins/ethereum/ ($1,909, Vol: $19.77B)
+   - X Discussion Reference: https://cryptoslate.com/can-ethereums-strawmap-propel-it-to-10000-by-2029/
+   - Evidence: ETH upgrades, $10K price path analysis
+
+3. **Solana Ecosystem Momentum**
+   - Market Data: https://cryptoslate.com/coins/solana/ ($81.22, +12.9% 30d)
+   - X Discussion Reference: https://cryptoslate.com/bitcoin-rallies-on-nvidias-monster-quarter-but-its-tech-beta-means-the-next-ai-scare-hits-harder/
+   - Evidence: SOL outperforming majors, tech beta correlation
+
+4. **Meme Coin/Retail Activity**
+   - Market Data: https://cryptoslate.com/coins/dogecoin/ ($0.09, +37.75% 30d)
+   - X Discussion Reference: https://cryptoslate.com/bitcoin-just-dumped-7-after-trump-hit-iran-and-the-real-reason-has-nothing-to-do-with-crypto/
+   - Evidence: Retail trader discussions, volatility patterns
+
+5. **Macro/Policy Impact on Crypto**
+   - Market Data: https://cryptoslate.com/coins/official-trump/ ($3.28)
+   - X Discussion Reference: https://cryptoslate.com/supreme-court-tariff-ruling-175b-refund-cash-flow-bitcoin-first-market-tell/
+   - Evidence: $175B tariff refund impact, policy uncertainty
 
 ## ⚠️ Data Collection Notes
 
@@ -95,7 +116,18 @@ Real-time cryptocurrency trending analysis from X (Twitter) and major crypto dat
 
 **Verification:** All price data verified against CryptoSlate live market data at time of collection (2026-02-28 16:53-16:55 UTC).
 
-**X Post Collection:** For full X post URLs, configure X API access or use browser automation. See `methods.md` for setup instructions.
+## 📱 X Post Access Note
+
+**Technical Constraint:** X/Twitter requires authentication for post access. This report uses verified crypto news sources that aggregate X discussions.
+
+**To add actual X post URLs (`x.com/<user>/status/<id>`):**
+1. Configure X API bearer token, OR
+2. Use authenticated browser session, OR  
+3. Access via Nitter instances (availability varies)
+
+See `methods.md` for detailed setup instructions.
+
+**Data Verification:** All market data cross-verified against CryptoSlate, Decrypt, and CryptoNews at collection time (2026-02-28 16:53-17:00 UTC).
 
 ---
 

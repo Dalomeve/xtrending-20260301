@@ -164,6 +164,25 @@
     "dataSourceCount": 4,
     "pricesCrossVerified": true,
     "collectionMethod": "web_fetch from public crypto data sources",
-    "limitations": "X/Twitter direct API access requires authentication; trending topics inferred from news coverage and market data"
+    "limitations": "X/Twitter direct API access requires authentication; trending topics inferred from news coverage and market data",
+    "xPostAccess": {
+      "status": "blocked",
+      "reason": "Authentication required",
+      "fallback": "Crypto news sources referencing X discussions",
+      "recommendedSetup": "Configure X API bearer token or use authenticated browser"
+    },
+    "collectionTimestamp": "2026-02-28T16:53:00Z to 2026-02-28T17:00:00Z",
+    "evidenceUrls": [
+      "https://cryptoslate.com/coins/bitcoin/",
+      "https://cryptoslate.com/coins/ethereum/",
+      "https://cryptoslate.com/coins/solana/",
+      "https://cryptoslate.com/coins/dogecoin/",
+      "https://cryptoslate.com/coins/official-trump/",
+      "https://cryptoslate.com/bitcoin-surged-toward-69000-after-a-brutal-flush-but-glassnode-says-one-level-decides-if-it-fades/",
+      "https://cryptoslate.com/supreme-court-tariff-ruling-175b-refund-cash-flow-bitcoin-first-market-tell/",
+      "https://cryptoslate.com/bitcoin-rallies-on-nvidias-monster-quarter-but-its-tech-beta-means-the-next-ai-scare-hits-harder/",
+      "https://cryptoslate.com/bitcoin-just-dumped-7-after-trump-hit-iran-and-the-real-reason-has-nothing-to-do-with-crypto/",
+      "https://decrypt.co/359420/bitcoin-rebound-stalls-65k-stocks-fall-gold-rises"
+    ]
   }
 }
